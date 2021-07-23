@@ -1,14 +1,14 @@
-Olá!
+**Olá!**
 
-Engenheira Ambiental e Sanitarista :seedling:
+:seedling: Engenheira Ambiental e Sanitarista
 
-Trainee Front-End na **[TecnoStart](https://www.linkedin.com/company/escolatecnostart/about/)** :computer:
+:computer: Trainee Front-End na **[TecnoStart](https://www.linkedin.com/company/escolatecnostart/about/)**
 
-Catarinense, 24 anos :house_with_garden:
+:house_with_garden: Catarinense, 24 anos
 
- **[Linkedin](https://www.linkedin.com/in/jessica-de-oliveira/)**
+ :heavy_check_mark: **[Linkedin](https://www.linkedin.com/in/jessica-de-oliveira/)**
 
- **[Instagram](https://www.instagram.com/jeh_deoliveira/)**
+ :heavy_check_mark: **[Instagram](https://www.instagram.com/jeh_deoliveira/)**
 
 
 <!--
