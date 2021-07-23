@@ -1,4 +1,15 @@
-### Hi there 👋
+Olá!
+
+Engenheira Ambiental e Sanitarista :seedling:
+
+Trainee Front-End na **[TecnoStart](https://www.linkedin.com/company/escolatecnostart/about/)** :computer:
+
+Catarinense, 24 anos :house_with_garden:
+
+ **[Linkedin](https://www.linkedin.com/in/jessica-de-oliveira/)**
+
+ **[Instagram](https://www.instagram.com/jeh_deoliveira/)**
+
 
 <!--
 **OliveiraJess/OliveiraJess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
