@@ -1,11 +1,12 @@
 **Olá! Meu nome é Jéssica de Oliveira**
 
+ ##
+ 
 🎓 Sou formada em Engenharia Ambiental e Sanitária
 <br>
 📚 Estou estudando HTML, CSS, JavaScript e ReactJs
 <br>
 👩‍💻 Estou em busca de oportunidades na área de Front-End Jr
-
 
 
 <div >
@@ -33,3 +34,6 @@
   </a>
  </div>
    
+  ![Snake animation](https://github.com/OliveiraJess/OliveiraJess/blob/output/github-contribution-grid-snake.svg)
+
+
