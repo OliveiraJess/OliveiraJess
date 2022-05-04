@@ -1,7 +1,6 @@
 **Olá! Meu nome é Jéssica de Oliveira**
 
-<div>
- <div>
+ <div align="left" >
 🎓 Sou formada em Engenharia Ambiental e Sanitária
 <br>
 📚 Estou estudando HTML, CSS, JavaScript e ReactJs
@@ -12,7 +11,8 @@
 <br>
 ✨ Tenho 24 anos
  </div>
- <div >
+
+ <div align="right">
 🍀Hobbies: 
 <br>
 📘 Ler 
@@ -23,7 +23,7 @@
 <br>
 🎮 Jogar
  </div>
-</div>
+
 
 <div >
  <a href="https://github.com/OliveiraJess">
