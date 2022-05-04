@@ -34,6 +34,6 @@
   </a>
  </div>
    
+  
   ![Snake animation](https://github.com/OliveiraJess/OliveiraJess/blob/output/github-contribution-grid-snake.svg)
-
-
+  
