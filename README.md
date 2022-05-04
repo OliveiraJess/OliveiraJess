@@ -1,6 +1,4 @@
-**Olá! Meu nome é Jéssica de Oliveira**
-
- ##
+## **Olá! Meu nome é Jéssica de Oliveira**
  
 🎓 Sou formada em Engenharia Ambiental e Sanitária
 <br>
@@ -29,7 +27,7 @@
   <a href="https://www.linkedin.com/in/jessica-de-oliveira/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
-   <a href="https://www.instagram.com/jeh_deoliveira/">
+  <a href="https://www.instagram.com/jeh_deoliveira/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   </a>
  </div>
