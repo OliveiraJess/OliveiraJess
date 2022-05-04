@@ -1,28 +1,11 @@
 **Olá! Meu nome é Jéssica de Oliveira**
 
- <div align="left" >
 🎓 Sou formada em Engenharia Ambiental e Sanitária
 <br>
 📚 Estou estudando HTML, CSS, JavaScript e ReactJs
 <br>
 👩‍💻 Estou em busca de oportunidades na área de Front-End Jr
-<br>
-🏡 Moro em Santa Catarina
-<br>
-✨ Tenho 24 anos
- </div>
 
- <div align="right">
-🍀Hobbies: 
-<br>
-📘 Ler 
-<br>
-🏕️ Acampar/Trilhas
-<br>
-🎬 Filmes/Séries
-<br>
-🎮 Jogar
- </div>
 
 
 <div >
