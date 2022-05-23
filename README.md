@@ -14,14 +14,21 @@
  </a>
 </div>
 
- <div style="display: inline-block"><br>
-  <img align="center" height="40" width="50" alt="Jess-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="50" alt="Jess-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="50" alt="Jess-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="50" alt="Jess-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
-  <img align="right" height="110" width="120" alt="Jess-Avatar" src="https://i.picasion.com/pic92/1c0b7b5d00a6e920ce3b5774db36b962.gif"/>
+
+
+ <div style="display: inline_block"><br>
+<div align="left">
+   <img align="left" height="40" width="50" alt="Jess-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="left" height="40" width="50" alt="Jess-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="left" height="40" width="50" alt="Jess-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="left" height="40" width="50" alt="Jess-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+</div>
+ <div  align="right" >
+   <img align="right" height="110" width="120" alt="Jess-Avatar" src="https://i.picasion.com/pic92/1c0b7b5d00a6e920ce3b5774db36b962.gif"/>
+ </div>
  </div>
 
+ 
  ##
  
  <div>
