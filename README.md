@@ -17,9 +17,9 @@
 <br>
 
 <div style="display: inline_block" align="left">
-   <img align="left" height="40" width="50" alt="Jess-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="left" height="40" width="50" alt="Jess-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="left" height="40" width="50" alt="Jess-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="left" height="40" width="50" alt="Jess-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="left" height="40" width="50" alt="Jess-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 </div>
 
