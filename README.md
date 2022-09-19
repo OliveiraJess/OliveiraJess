@@ -2,9 +2,9 @@
  
 🎓 Formada em Engenharia Ambiental e Sanitária
 <br>
-📚 Estudando HTML, CSS, JavaScript e ReactJs
+📚 Estudando HTML, CSS, JavaScript e React
 <br>
-👩‍💻 Em busca de oportunidades na área de Front-End Jr
+👩‍💻 Em busca de oportunidades na área de Front-End
 
 
 <div>
