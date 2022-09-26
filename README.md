@@ -1,10 +1,10 @@
 ## **Olá! Meu nome é Jéssica de Oliveira**
- 
-🎓 Formada em Engenharia Ambiental e Sanitária
+
+👩‍💻 Desenvolvedora FrontEnd com foco na linguagem Javascript.
 <br>
-📚 Estudando HTML, CSS, JavaScript e React
+🎓 Formada em Engenharia Ambiental e Sanitária decidi migrar para a área de tecnologia por ser bastante requisitada. 
 <br>
-👩‍💻 Em busca de oportunidades na área de Front-End
+📚 Comecei participando de um Bootcamp em FrontEnd e acabei me apaixonando pela área por lidar com a interface gráfica e contribuir diretamente com a experiência do usuário.
 
 
 <div>
