@@ -1,11 +1,9 @@
 ## **Olá! Meu nome é Jéssica de Oliveira**
 
-👩‍💻 Desenvolvedora FrontEnd com foco na linguagem Javascript.
+👩‍💻 Desenvolvedora de Software.
 <br>
-🎓 Formada em Engenharia Ambiental e Sanitária decidi migrar para a área de tecnologia por ser bastante requisitada. 
+💻 Atualmente trabalhando com Angular e Laravel.
 <br>
-📚 Comecei participando de um Bootcamp em FrontEnd e acabei me apaixonando pela área por lidar com a interface gráfica e contribuir diretamente com a experiência do usuário.
-
 
 <div>
  <a href="https://github.com/OliveiraJess"  target="_blank">
@@ -36,11 +34,6 @@
   <a href="https://www.linkedin.com/in/jessica-de-oliveira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
- <!-- 
-  <a href="https://www.instagram.com/jeh_deoliveira/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-  </a>
--->
 </div>
    
   
